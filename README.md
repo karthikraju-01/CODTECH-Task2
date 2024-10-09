@@ -1,5 +1,5 @@
-Name: K KARTHIK KUMAR RAJU
+Name: N.Keerthi Vardhan Naidu
 Company: CODTECH IT SOLUTIONS
-ID: CT8VLSI1409
+ID: CT12DS612
 Domain: VLSI
-Duration:25/06/24 - 25/08/24
+Duration:10/06/24 - 10/08/24
